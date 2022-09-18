@@ -1,3 +1,5 @@
+This is a fork of the original scikit-kinematics library. The goal of this fork is to modify it to work with realtime streaming data, instead of 
+only processing offline data like the original library does.
 ![Title](docs/Images/skinematics.png)
 ===
 scikit-kinematics
